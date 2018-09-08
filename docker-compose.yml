@@ -8,10 +8,10 @@ services:
     ports:
       - "3306:3306"
     environment:
-      MYSQL_ROOT_PASSWORD: password
-      MYSQL_DATABASE: wordpress
-      MYSQL_USER: wordpress
-      MYSQL_PASSWORD: password
+      MYSQL_ROOT_PASSWORD: W1z3l1n3Acad3my
+      MYSQL_DATABASE: advanced_php_project
+      MYSQL_USER: wizeline
+      MYSQL_PASSWORD: academyGDL
   mailcatcher:
      image: schickling/mailcatcher
      restart: always
