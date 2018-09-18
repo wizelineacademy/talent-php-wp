@@ -1,0 +1,27 @@
+.events__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.event__card {
+    padding: 20px;
+    box-shadow: 3px 3px 8px hsl(0, 0%, 80%);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.event__thumbnail {
+    border: 0;
+    width: 100%;
+    height: auto;
+}
+
+.event__duration {
+    text-align: left;
+}
+
+.event__details {
+    margin-top: 10px;
+    text-align: justify;
+}
