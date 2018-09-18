@@ -1,0 +1,16 @@
+{
+  "name": "lordferquad/events",
+  "description": "Events Plugin - Challenge 2",
+  "authors": [
+    {
+      "name": "Jesús Fernando Alvarez Franco",
+      "email": "jefer_590@hotmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "EventsPlugin\\": "src/"
+    }
+  }
+}
