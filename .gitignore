@@ -29,7 +29,6 @@ config.codekit
 
 /wordpress/*
 !/wordpress/.gitkeep
-!/wordpress/wp-content/plugins/events/*
 
 /data/*
 !/data/.gitkeep
