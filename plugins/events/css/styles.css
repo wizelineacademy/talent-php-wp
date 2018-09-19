@@ -1,0 +1,28 @@
+.event-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20pt;
+    border-bottom: 1pt solid #ddd; 
+}
+.event-header-container {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20pt;
+}
+.event-image {
+    width: 30%;
+    margin-right: 10pt;
+}
+
+.event-description {
+    margin-bottom: 10pt;
+}
+
+.venue-name {
+    font-weight: bold;
+    margin-bottom: 5pt;
+}
+.venue-address {
+    font-size: 0.8rem;
+    margin-bottom: 20pt;
+}
