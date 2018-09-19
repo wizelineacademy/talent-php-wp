@@ -1,0 +1,20 @@
+.event{
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 3em;
+}
+.event-image{}
+.event-title{}
+.event-description{}
+.event-venue{}
+.event h3{
+    font-size: 1.25em;
+}
+.ligther{
+    color: darkgrey;
+}
+.time-info{
+    margin-bottom: 1em;
+}
+.new-color{
+    color: blue;
+}
