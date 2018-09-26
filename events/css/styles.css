@@ -1,0 +1,21 @@
+.events {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+ .event {
+    padding: 10px;
+    box-shadow: 4px 4px 8px hsl(0, 0%, 80%);
+    margin: 20px 0;
+}
+ .event-image {
+    width: 100%;
+    height: auto;
+}
+ .event-date {
+    text-align: left;
+}
+ .event-details {
+    margin-top: 10px;
+    text-align: justify;
+}
